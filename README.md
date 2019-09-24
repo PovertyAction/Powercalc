@@ -1,2 +1,2 @@
 # Powercalc
-Tools for power analysis, sample size requirements, minimum detectable effects (MDE) calculation
+Tools and documentation for power analysis, sample size requirements, minimum detectable effects (MDE) calculation, as well as relevant literature.
